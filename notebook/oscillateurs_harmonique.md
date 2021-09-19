@@ -60,7 +60,7 @@ On suppose que les oscillations sont d'amplitude $x_0$.
 1. En déduire l'expression de l'énergie mécanique
 1. On a représenté graphiquement l'évolution temporelle des grandeurs énergétiques. Commenter les échanges d'énergie.
 
-```{figure}../images/meca_epec_harmonique.jpg
+```{figure} ./images/meca_epec_harmonique.jpg
 :name: fig_248
 :align: center
 

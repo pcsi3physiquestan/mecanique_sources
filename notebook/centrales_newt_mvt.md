@@ -111,13 +111,13 @@ r(\theta) &= \frac{\frac{mC^2}{K}}{1+ \frac{mC^2 A}{K} \cos (\theta - \theta_0)}
 
 On rappelle l'allure de l'énegie potentielle effective dans le cas attractif (premier) et répulsif (second). On rappelle que l'origine des potentiels a été choisi à l'infini.
 
-```{figure}../images/meca_newtonien_em.png
+```{figure} ./images/meca_newtonien_em.png
 :name: fig_259
 :align: center
 
 ```
 
-```{figure}../images/meca_newtonien_em_repul.png
+```{figure} ./images/meca_newtonien_em_repul.png
 :name: fig_260
 :align: center
 

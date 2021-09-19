@@ -60,7 +60,7 @@ On souhaite mettre en orbite une sonde spatiale(s) autour de Mars. Ce véhicule 
 * rayon de Mars: $r_M = 3397 \rm{km}$
 * masse de Mars: $M_M = 6,39 \times 10^{23} \rm{kg}$
 
-```{figure}../images/Mecanique_TD7_EX1_1.jpg
+```{figure} ./images/Mecanique_TD7_EX1_1.jpg
 :name: fig_262
 :align: center
 

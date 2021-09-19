@@ -24,7 +24,7 @@ On s'intéresse maintenant au mouvement des satellites. On s'intéressera dans l
 __Position du problème__
 Le mouvement des satellites se fait sur des distances très grandes (ex: l'altitude d'un satellite géostationnaire est de 36000km), pour économiser le carburant (économie d'énergie ET de poids), les ingénieurs tirent en général partie des interactions gravitationnelles. En effet, on a vu que la vitesse initiale pour une distance donnée définissait l'énergie mécanique du système. Celle-ci permet de prévoir les altitudes maximale et minimale atteintes par le satellite. On peut donc, en allumant de manière très ponctuelle les moteurs du satellite, lui faire parcourir des très grandes distances: on réalise une économie de carburant. D'une manière générale, le mouvement des satellites correspond à la modification ponctuelle de la vitesse.
 
-```{figure}../images/meca_transfert_sat.jpg
+```{figure} ./images/meca_transfert_sat.jpg
 :name: fig_261
 :align: center
 

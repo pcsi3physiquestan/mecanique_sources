@@ -44,7 +44,6 @@ Le même baigneur décide maintenant d'effectuer un plongeon. On suppose qu'il e
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 L'équation à vérifier est:
 
@@ -76,7 +75,6 @@ On considère un volant qui tourne autour d'un axe fixe horizontal. Son moment d
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 $\alpha = \frac{\omega_0^2}{4 \pi N}$
 ```

@@ -28,7 +28,7 @@ On fait l'étude d'un oscillateur M de masse $m = 0.2\rm{kg}$ astreint à se dé
 
 Le portrait de phase $(X(t); V(t) = \frac{\rm{d}X}{\rm{dt}}(t)) $de l'oscillateur étudié est donné sur la figure Figure E.6. On souhaite pouvoir en tirer les valeurs des différents paramètres de l'oscillateur.
 
-```{figure}../images/Mecanique_TD5_EX1_1.jpg
+```{figure} ./images/Mecanique_TD5_EX1_1.jpg
 :name: fig_252
 :align: center
 
@@ -99,7 +99,7 @@ On suppose que le mobile réalise N oscillations complètes avant de s'arrêter 
 
 Le verre est un matériau très dur. On peut toutefois le déformer légèrement sans le casser: on parle d'élasticité. Récemment, des expériences de biophysique ont été menées pour étudier l'ADN. Le capteur utilisé était simplement une fibre optique en silice amincie à l'extrémité de laquelle on accroche un brin d'ADN. L'expérience consistait à suivre la déformation de flexion de la fibre. La masse volumique du verre est $\rho=2500\rm{kg.m{-1}}$.
 
-```{figure}../images/Mecanique_TD5_EX4_1.jpeg
+```{figure} ./images/Mecanique_TD5_EX4_1.jpeg
 :name: fig_253
 :align: center
 
@@ -170,7 +170,7 @@ où C, $\alpha$ et n sont des constantes positives. En l'absence de toute champ 
 
 Deux points matériels A et B de même masse m sont reliés entre eux par un ressort de raideur K et à deux points fixes par deux ressorts de raideur k. L'ensemble coulisse sans frottements sur une tige horizontale fixe. On note $\overrightarrow{u}$ un vecteur unitaire de cet axe. On note x et y les élongations de A et B comptées à partir de leur position d'équilibre.
 
-```{figure}../images/Mecanique_TD6_EX3_1.jpeg
+```{figure} ./images/Mecanique_TD6_EX3_1.jpeg
 :name: fig_254
 :align: center
 

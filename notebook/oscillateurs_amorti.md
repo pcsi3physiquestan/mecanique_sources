@@ -56,7 +56,7 @@ On considère un oscillateur amorti en régime apériodique.
 1. Donner l'expression temporelle de X(t) et préciser l'expression des constantes d'intégration pour $X(t=0) = x_0$ et $V(t=0)=V_0$.
 1. Estimer le temps caractéristique d'un tel régime en fonction du coefficient d'amortissement.
 
-```{figure}../images/meca_aperio_tempo.jpg
+```{figure} ./images/meca_aperio_tempo.jpg
 :name: fig_249
 :align: center
 
@@ -89,13 +89,13 @@ On considère un oscillateur amorti en régime pseudo-périodique.
 1. Définir le décrément logarithmique et l'exprimer en fonction du coefficient d'amortissement.
 1. Commenter l'évolution énergétique représentée ci-dessous.
 
-```{figure}../images/meca_pseudo_energie.jpg
+```{figure} ./images/meca_pseudo_energie.jpg
 :name: fig_250
 :align: center
 
 ```
 
-```{figure}../images/meca_pseudo_tempo.jpg
+```{figure} ./images/meca_pseudo_tempo.jpg
 :name: fig_251
 :align: center
 

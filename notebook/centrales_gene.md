@@ -261,7 +261,7 @@ Si la trajectoire est limitée par un rayon maximal, l'état sera __lié.__
 
 Si la trajectoire n'est pas limitée par un rayon maximal, l'état sera de __diffusion.__
 
-```{figure}../images/meca_force_centrale_traj.jpg
+```{figure} ./images/meca_force_centrale_traj.jpg
 :name: fig_257
 :align: center
 
@@ -328,7 +328,7 @@ _On ne justifiera pas ici les tracés. Il est __vivement conseillé__ d'essayer 
  
 
 
-```{figure}../images/meca_force_centrale_Krn.png
+```{figure} ./images/meca_force_centrale_Krn.png
 :name: fig_258
 :align: center
 

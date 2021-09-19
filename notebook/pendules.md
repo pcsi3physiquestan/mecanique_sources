@@ -123,7 +123,7 @@ En étudiant l'énergie potentielle du pendule simple et/ou du pendule pesant, m
 1. Si le mobile part du point le plus bas avec une vitesse linéaire $v_0$. Déterminer l'angle $\theta_{\max}$ le plus haut qu'il peut atteindre en fonction de $v_0$ ainsi que la valeur minimale de $v_0$ permettant en pendule de faire des tours complet.
 1. Reconnaître sur le graphique ci-après les différents cas: petits mouvements, grands mouvements pendulaire, tours complets.
 
-```{figure}../images/meca_simple_phase2.png
+```{figure} ./images/meca_simple_phase2.png
 :name: fig_255
 :align: center
 
@@ -144,7 +144,7 @@ On considère que le pendule est lâché d'un angle $\theta_0 > 0$ avec la verti
 1. La période des oscillations est-elle indépendante de l'amplitude des oscillations? On parle d'__anisochronisme__ des oscillations.
 1. On a représenté ci-après le rapport $T/T_0$ en fonction de l'angle $\theta_0$ (noté $\theta_{\max}$). Commenter cette courbe.
 
-```{figure}../images/meca_anaharmonicite_pendule.jpg
+```{figure} ./images/meca_anaharmonicite_pendule.jpg
 :name: fig_256
 :align: center
 

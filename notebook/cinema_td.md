@@ -41,8 +41,7 @@ On s'intéresse à un cycliste, considéré comme un point matériel M, qui s'en
 1. Déterminer la valeur de l'accélération a1 ainsi que la vitesse atteinte en D. La vitesse mesurée sur piste est d'environ $v_D = 60 \rm{km.h^{-1}}$. Que doit-on modifier dans le modèle pour se rapprocher de la réalité?
 
 ````
-````{dropdown} Eléméents de réponse (sans justification)
-:class: attention
+````{dropdown} Eléménts de réponse (sans justification)
 
 $t_{E1} = \sqrt{\frac{L}{a_1}}$ et $v_{E1} = \sqrt{a_1 L}$.
 
@@ -68,7 +67,6 @@ On s'intéresse à une planète semblable à la Terre mais entièrement recouver
 ````
 
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 $\theta(t) = \theta_0 - \frac{\sqrt{2}}{2}\frac{V_0}{R}t$
 
@@ -86,7 +84,6 @@ Déterminer alors les équations paramétriques du mouvement de A (équation hor
 ````
 
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 $r(t) = \frac{\sqrt{2}}{2}a - \frac{\sqrt{2}}{2}v_0 t$
 

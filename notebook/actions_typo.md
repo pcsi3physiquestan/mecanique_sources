@@ -600,7 +600,7 @@ On va présenter ici une méthode permettant de déterminer l'expression de la f
 
 On considère deux ressorts horizontaux de raideur identique k et de longueur à vide $l_0$. Ils sont attachées comme représentés ci-dessous. Déterminer la force exercée par chaque ressort sur le point matériel M en fonction de la coordonnées x de M.
 
-```{figure} ./images/ressort_exo.png/ressort_exo.png
+```{figure} ./images/ressort_exo.png
 :name: fig_235
 :align: center
 

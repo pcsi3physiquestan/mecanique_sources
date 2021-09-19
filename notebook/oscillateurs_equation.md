@@ -37,7 +37,6 @@ On considère un ressort de raideur k et de longueur $l_0$ accroché d'un côté
 
 ````
 ````{dropdown} Ecart à l'équilibre
-:class: attention
 
 Par la suite, on fera en sorte que le second membre soit nul à l'équilibre (très important pour le cas des régimes forcés sinusoïdaux). Pour cela __on réalise le changement de variabme:__ $X = x - x_{eq}$. Cela revient à s'intéresser à l'écart à la position d'équilibre.
 

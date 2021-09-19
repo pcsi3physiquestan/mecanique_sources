@@ -45,7 +45,6 @@ On prendra $g = 9.8 \rm{m.s^{-2}}$.
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 Dans les deux cas l'origine est prise au niveau du point d'attache et l'axe Oz est orienté vers le haut.
 
@@ -103,7 +102,6 @@ On suppose que durant la descente, la composante "motrice" de l'action de contac
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 Cas à vitesse constante: $ \alpha < \arccos \frac{v^2}{Rg}$
 
@@ -130,7 +128,6 @@ Un tuyau demi-cylindrique de section négligeable est posé sur le sol. Sur une 
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 $d = D_m \frac{g}{2v^2 \pi \cos 2 \theta}$
 ````
@@ -149,7 +146,6 @@ On relie un fil de torsion de constante C d'un côté au bâti et de l'autre eu 
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 \begin{align*}
 J_1 \ddot \theta_1 =  - C \theta_1 + C \left(\theta_2 - \theta_1\right)\\

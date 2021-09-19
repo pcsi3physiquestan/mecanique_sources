@@ -1,5 +1,5 @@
 format: jb-book
-root: optique
+root: mecanique
 
 chapters:
   - file: notebook/cinematique
@@ -16,7 +16,7 @@ chapters:
       - file: notebook/cinema_td
     - file: notebook/cinetique_point
       sections:
-      - file: notebook/cinetique_interie
+      - file: notebook/cinetique_inertie
       - file: notebook/cinetique_p
     - file: notebook/systeme_cinema
       sections:
@@ -32,7 +32,6 @@ chapters:
       - file: notebook/actions_ex_app
     - file: notebook/actions_globales
       sections:
-      - file: notebook/actions_g_description
       - file: notebook/actions_g_typo
       - file: notebook/actions_g_exemples
   - file: notebook/theoremes
@@ -55,21 +54,10 @@ chapters:
       - file: notebook/energetique_td
     - file: notebook/energetique_conservatifs
       sections:
-      - file: notebook/energetique_conser_def
-      - file: notebook/energetique_conser_1d
-      - file: notebook/energetique_conser_td
+      - file: notebook/energetique_conserv_def
+      - file: notebook/energetique_conserv_1d
+      - file: notebook/energetique_conserv_td
   - file: notebook/applications
-    sections:
-    - file: notebook/oscillateurs
-      sections:
-      - file: notebook/oscillateurs_equation
-      - file: notebook/oscillateurs_harmonique
-      - file: notebook/oscillateurs_amorti
-      - file: notebook/oscillateurs_forces
-      - file: notebook/oscillateurs_td
-    - file: notebook/rotation
-    - file: notebook/pendules
-  - file: notebook/centrales
     sections:
     - file: notebook/oscillateurs
       sections:

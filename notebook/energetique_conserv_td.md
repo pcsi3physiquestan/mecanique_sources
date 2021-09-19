@@ -41,8 +41,7 @@ On considère le dispositif suivant où un objet assimilable à un point matéri
 1. Même question pour la partie (2).
 
 ````
-````{dropdown}Eléments de réponse (sans justification)
-:class: attention
+````{dropdown} Eléments de réponse (sans justification)
 
 \begin{align*}
 &\begin{cases}
@@ -78,7 +77,6 @@ Tous les mouvements ont lieu suivant l'axe Ox et on néglige l'effet du poids. L
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 Cas à une charge: $E_p(x) = \frac{q^2}{4\pi \epsilon_0 x}$
 
@@ -116,7 +114,6 @@ On considère le mouvement d'une bille M de masse m pouvant coulisser sans frott
 
 ````
 ````{dropdown} Eléments de réponse (sans justification)
-:class: attention
 
 Un ressort: 
 
