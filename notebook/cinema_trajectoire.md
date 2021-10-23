@@ -70,8 +70,7 @@ Un mouvement rectiligne est un mouvement dont la trajectoire est portée par une
 En général, on prévoit par une étude physique que le mouvement sera rectiligne. On va donc choisir un système de coordonnées cartésiennes (ou à la limite cylindriques) dont un axe est confondu avec le support de la trajectoire.
 ````
 
-````{admonition} Attention : 
-:class: note
+````{attention}
 
 Un trajectoire rectiligne ne signifie pas que le mobile va toujours dans le même sens. Il peut rebrousser chemin.
 
@@ -130,8 +129,7 @@ Une ellipse est une courbe fermée qu'on peut caractériser/reconnaître de plus
 
 ````
 
-````{admonition} Attention : 
-:class: note
+````{attention}
 
 On fera attention au fait que le centre du repère ne définit pas le même point particulier de l'ellipse suivant qu'on utilise les coordonnées cartésiennes ou polaires.
 
@@ -172,8 +170,7 @@ Une parabole est une courbe non fermée qu'on peut caractériser/reconnaître de
 
 ````
 
-````{admonition} Attention : 
-:class: note
+````{attention}
 
 Dans le cas polaire, si $\theta_0 = 0$ (cas fréquent) l'axe de symétrie de la parabole est l'axe qui sert d'origine des angles, soit en général l'axe Ox. Ce qui est différent du cas cartésien présenté ici.
 

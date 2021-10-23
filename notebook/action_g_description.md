@@ -141,8 +141,7 @@ En effet, soit une action dont la force résultante est $\overrightarrow{F}$ et 
 puisque le moment en A est nul. Le moment en B s'exprime __comme si__ toute l'action s'effectuait au point A. Si l'on connaît un tel point, il faut, sur un schéma placer la force résultante en ce point.
 
 
-````{admonition} Attention : 
-:class: note
+````{attention}
 
 Par abus de langage, on peut lire le terme de "point d'application" pour désigner un point où le moment résultant est nul. C'est un abus de langage (à connaître malgré tout) car l'action résultant se répartie sur l'ensemble (ou une partie) du solide, il arrive même qu'aucune action (même ponctuelle) ne soit appliquée au point de moment nul !
 
