@@ -62,7 +62,7 @@ latex:
   use_jupyterbook_latex     : true # use jupyterbook-latex for pdf builds as default
   latex_elements:
     preamble: "\\renewenvironment{sphinximportant}[1]
-  {\\begin{sphinxlightbox}\sphinxstrong{#1} }{\\end{sphinxlightbox}}
+  {\\begin{sphinxlightbox}\\sphinxstrong{#1} }{\\end{sphinxlightbox}}
 "
     sphinxsetup:
       warningBgColor: "{rgb}{0, 0, 0}"
