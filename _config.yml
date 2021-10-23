@@ -86,4 +86,4 @@ sphinx:
     latex_elements:
       preamble: "\\renewenvironment{sphinximportant}[1]
   {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}"
-      sphinxsetup: "importantborder=1pt"
+      sphinxsetup:" importantborder=2pt"
