@@ -63,7 +63,7 @@ latex:
   latex_elements:
     footer: "Ceci est un footer"
     sphinxsetup:
-      warningBgColor: "{rgb}{0.2,0.2,0.2}"
+      warningBgColor: "\{rgb\}\{0.2,0.2,0.2\}"
       importantBgColor: "{rgb}{0.2,0.2,0.2}"
   latex_documents:
     targetname: mecanique.tex
