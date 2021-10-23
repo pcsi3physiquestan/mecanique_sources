@@ -36,6 +36,11 @@ On considère une masse m ponctuelle qui se déplace sans frottements sur une de
 >
 >On applique donc le PFD.
 >
+>\begin{align*}
+- m R \dot \theta^2 &= -mg \cos \theta + R\\
+m R \ddot \theta &= mg \sin \theta
+\end{align*}
+>
 >__Application du TEC__
 >
 >Il est important de savoir quel théorème on applique (puissance ou énergie) et de préciser sur quoi on applique le théorème. Ici, on va appliquerle théorème de l'énergie cinétique entre l'instant 0 et un instant t où le mobile est à un angle $\theta$. On considèrera la vitesse initiale négligeable devant la vitesse à l'instant t.
