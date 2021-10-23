@@ -60,13 +60,6 @@ html:
 latex:
   latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
   use_jupyterbook_latex     : true # use jupyterbook-latex for pdf builds as default
-  latex_elements:
-    preamble: "\\renewenvironment{sphinximportant}[1]
-  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
-"
-    sphinxsetup:
-      warningBgColor: "{rgb}{0, 0, 0}"
-      importantBgColor: "{rgb}{0.2,0.2,0.2}"
   latex_documents:
     targetname: mecanique.tex
 
@@ -86,7 +79,11 @@ latex:
 
 #######################################################################################
 # Advanced and power-user settings
-#sphinx:
+sphinx:
 #  extra_extensions          :   # A list of extra extensions to load by Sphinx (added to those already used by JB).
 #  local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
-#  config                    :   # key-value pairs to directly over-ride the Sphinx configuration
+  config                    :   # key-value pairs to directly over-ride the Sphinx configuration
+    latex_elements:
+      preamble: "\\renewenvironment{sphinximportant}[1]
+  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
+"
