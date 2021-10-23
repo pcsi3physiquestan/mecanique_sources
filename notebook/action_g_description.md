@@ -41,8 +41,9 @@ La donnée des DEUX grandeurs est nécessaires pour décrire complètement l'act
 
 ````
 
-````{admonition} Attention : Force et moment
-:class: note
+````{attention}
+__Force et moment__
+
 
 A la différence d'une action ponctuelle, le moment résultant d'une action globale __ne peut pas se déduire__ de la force seule a priori. Il faut les deux données.
 
