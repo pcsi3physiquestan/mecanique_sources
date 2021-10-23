@@ -27,7 +27,6 @@ m R \ddot \theta &= mg \sin \theta
 \end{align*}
 >L'équation suivant $\overrightarrow{e_r}$ permet de déterminer R en fonction de la vitesse angulaire. Il reste donc à déterminer cette vitesse angulaire en fonction de l'angle pour répondre à la question. On va utiliser le TEC ou le TEM pour déterminer cette relation. Remarquons qu'on aurait pu utiliser à la place la seconde équation en la multipliant par $\dot \theta$.
 >
->
 >__Application du TEC__
 >
 >Il est important de savoir quel théorème on applique (puissance ou énergie) et de préciser sur quoi on applique le théorème. Ici, on va appliquerle théorème de l'énergie cinétique entre l'instant 0 et un instant t où le mobile est à un angle $\theta$. On considèrera la vitesse initiale négligeable devant la vitesse à l'instant t.
@@ -43,7 +42,6 @@ m R \ddot \theta &= mg \sin \theta
 m R \dot \theta^2 &= 2 mg \left(1 - \cos \theta\right)
 \end{align*}
 >Il vient en remplçant dans la première équation: $ R = 3 mg \cos \theta - 2mg$. La condition de décollement s'obtient pour $\theta = \arccos 2/3$.
->
 >
 >__Application du théorème de l'énergie mécanique__
 >

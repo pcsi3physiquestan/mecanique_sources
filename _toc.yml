@@ -49,7 +49,7 @@ chapters:
       - file: notebook/energetique_travail
       - file: notebook/energetique_ep
       - file: notebook/energetique_theoremes
-      - file: notebook/energetique_exemples
+      # - file: notebook/energetique_exemples
       - file: notebook/energetique_ex_app
       - file: notebook/energetique_td
     - file: notebook/energetique_conservatifs
