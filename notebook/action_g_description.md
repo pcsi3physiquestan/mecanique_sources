@@ -22,8 +22,7 @@ Comme on l'a dit précédemment, une action globale ou résulante est un regroup
 
 _Une action globale est définie comme un ensemble d'actions ponctuelles. On rappelle que si le regroupement est arbitraire, il doit être réfléchi en fonction de la physique._
 
-````{admonition} Définition : Force et moment résultant
-:class: tip
+````{important} __Définition : Force et moment résultant__
 
 Une action résultante peut être décrite __complètement__ au moyen de deux grandeurs:
 
@@ -100,15 +99,13 @@ Si nous ne calculerons pas le moment par intégration des actions ponctuelles, o
 
 ## Couple
 
-````{admonition} Définition : Couple de forces
-:class: tip
+````{important} __Définition : Couple de forces__
 
 Un couple est une action résultante dont la résultante des forces est nulle (mais pas le moment).
 
 ````
 
-````{admonition} Fondamental : Moment d'un couple (Admis)
-:class: attention
+````{important} __Fondamental : Moment d'un couple (Admis)__
 
 Le moment d'un couple de force est indépendant du point de calcul.
 ````
