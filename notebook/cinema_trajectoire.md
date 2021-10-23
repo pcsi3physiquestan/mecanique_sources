@@ -48,7 +48,7 @@ On peut exprimer le vecteur position dans les différents repères. Les vecteurs
 * Coordonnées sphériques: $r_M(t) \overrightarrow{e_r}$.
 ````
 
-````{warning} Attention : 
+````{attention}
 On rappelle que les bases cylindriques et sphériques sont des bases __locales__ dont les vecteurs vont varier lorsque le point M se déplace. Il faudra donc tenir compte de leur dérivées temporelles.
 
 ````
@@ -66,8 +66,7 @@ Un mouvement rectiligne est un mouvement dont la trajectoire est portée par une
 
 ````
 
-````{admonition} Choix du système de coordonnées
-:class: hint
+````{hint} Choix du système de coordonnées
 En général, on prévoit par une étude physique que le mouvement sera rectiligne. On va donc choisir un système de coordonnées cartésiennes (ou à la limite cylindriques) dont un axe est confondu avec le support de la trajectoire.
 ````
 
