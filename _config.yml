@@ -87,4 +87,5 @@ sphinx:
       preamble: "\\renewenvironment{sphinximportant}[1]
   {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}"
       sphinxsetup: "importantborder=2pt,
-        attentionBorderColor={rgb}{0.5, 0.5, 0.5}"
+        attentionborder=0.5pt,
+        attentionBorderColor={rgb}{0.7, 0.7, 0.7}"
