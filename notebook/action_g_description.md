@@ -48,9 +48,8 @@ A la différence d'une action ponctuelle, le moment résultant d'une action glob
 
 ````
 
-````{dropdown} Remarque
+````{dropdown} _Remarque : Points M_
 
-__Points M__
 L'ensemble des points M sur lesquels la sommation se fait n'est pas nécessairement l'ensemble des points M su solides. Par exemple, dans le cas d'actions de contact, la sommation se fait uniquement sur la surface de contact.
 
 ````
