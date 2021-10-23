@@ -86,4 +86,6 @@ sphinx:
     latex_elements:
       preamble: "\\renewenvironment{sphinximportant}[1]
   {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
+\\renewenvironment{sphinxtip}[1]
+  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
 "
