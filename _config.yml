@@ -85,7 +85,5 @@ sphinx:
   config                    :   # key-value pairs to directly over-ride the Sphinx configuration
     latex_elements:
       preamble: "\\renewenvironment{sphinximportant}[1]
-  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
-\\renewenvironment{sphinxnote}[1]
-  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}
-"
+  {\\begin{sphinxheavybox}\\sphinxstrong{#1} }{\\end{sphinxheavybox}}"
+      sphinxsetup: "importantborder=1pt"
