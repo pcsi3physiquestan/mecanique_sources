@@ -171,10 +171,10 @@ On considère un point M contraint à se déplacer sur une sphère fixe de rayon
 ````
 
 ````{dropdown} Résolution
-
-Cet exercice présente deux points importants: la traduction de contrainte cinématique en terme d'expression des coordonnées et des vecteurs et la détermination d'une accélération en sphérique par dérivation du vecteur vitesse.
-
-
+>
+>Cet exercice présente deux points importants: la traduction de contrainte cinématique en terme d'expression des coordonnées et des vecteurs et la détermination d'une accélération en sphérique par dérivation du vecteur vitesse.
+>
+>
 ```{admonition} Méthode : Coordonnées et vecteur vitesse.
 :class: attention
 
