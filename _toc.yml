@@ -41,6 +41,8 @@ chapters:
     - file: notebook/theoremes_meth
     - file: notebook/theoremes_ex_app
     - file: notebook/theoremes_td
+      sections:
+      -file: notebook/tir_balistique
   - file: notebook/energetique
     sections:
     - file: notebook/energetique_gene
