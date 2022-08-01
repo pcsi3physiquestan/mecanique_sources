@@ -86,9 +86,9 @@ Cette propriété n'est pas à connaître ni à utiliser. Elle est présentée i
 
 Soit deux points A et B, un système $\Sigma$ subissant une action résultante $\mathfrak{A}_{\Sigma_1 \to \Sigma}$ de la part d'un système $\Sigma_1$ dont la force résultante est $\overrightarrow{F}$. Si on connait le moment résultant de l'action au point A $\overrightarrow{M}_A$, alors le moment de la même action au point B se déduit par la relation:
 
-\begin{equation}
+$$
 \overrightarrow{M}_B = \overrightarrow{M}_A + \overrightarrow{BA} \wedge \overrightarrow{F}
-\end{equation}
+$$
 On insiste sur le fait qu'il faut déjà connaître le moment en un point: on ne déduit pas le moment de l'action à partir de la force résultante seule.
 
 
@@ -132,9 +132,9 @@ Pour des actions dont la résultante des forces est non nulle (pas les couples),
 
 En effet, soit une action dont la force résultante est $\overrightarrow{F}$ et dont le moment est nul en un point A. Le transfert de moment permet d'écrit le moment en un point B:
 
-\begin{equation}
+$$
 \overrightarrow{M}_B = \overrightarrow{BA} \wedge \overrightarrow{F}
-\end{equation}
+$$
 puisque le moment en A est nul. Le moment en B s'exprime __comme si__ toute l'action s'effectuait au point A. Si l'on connaît un tel point, il faut, sur un schéma placer la force résultante en ce point.
 
 
