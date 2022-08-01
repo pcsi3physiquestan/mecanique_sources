@@ -4,61 +4,58 @@ root: mecanique
 chapters:
   - file: notebook/cinematique
     sections:
-    - file: notebook/cinema_point
+    - file: notebook/cinema_contxt
       sections:
-      - file: notebook/cinema_referentiel
-      - file: notebook/cinema_trajectoire
-      - file: notebook/cinema_vitesse
-      - file: notebook/cinema_acc
-      - file: notebook/cinema_circulaire
-      - file: notebook/cinema_acc_unif
+      - file: notebook/cinema_point
+        sections:
+        - file: notebook/cinema_referentiel
+        - file: notebook/cinema_trajectoire
+        - file: notebook/cinema_vitesse
+        - file: notebook/cinema_acc
+        - file: notebook/cinema_circulaire
+      - file: notebook/cinetique_point
+        sections:
+        - file: notebook/cinetique_inertie
+        - file: notebook/cinetique_p
+    - file: notebook/cinema_ex
+      sections:
+      - file: notebook/cinema_methode
       - file: notebook/cinema_ex_app
       - file: notebook/cinema_td
-    - file: notebook/cinetique_point
-      sections:
-      - file: notebook/cinetique_inertie
-      - file: notebook/cinetique_p
-    - file: notebook/systeme_cinema
-      sections:
-      - file: notebook/systeme_description
-      - file: notebook/systeme_cinetique
-      - file: notebook/systeme_mouvement
-  - file: notebook/actions
+  - file: notebook/dynamique
     sections:
-    - file: notebook/actions_ponctuelles
+    - file: notebook/dynamique_contxt
       sections:
-      - file: notebook/actions_interactions
-      - file: notebook/actions_typo
-      - file: notebook/actions_ex_app
-    - file: notebook/actions_globales
+      - file: notebook/actions
+        sections:
+        - file: notebook/actions_typo
+      - file: notebook/theoremes
+        sections:
+        - file: notebook/theoremes_newton
+        - file: notebook/theoremes_tmc
+    - file: notebook/dynamique_ex
       sections:
-      - file: notebook/actions_g_typo
-      - file: notebook/actions_g_exemples
-  - file: notebook/theoremes
-    sections:
-    - file: notebook/theoremes_newton
-    - file: notebook/theoremes_tmc
-    - file: notebook/theoremes_meth
-    - file: notebook/theoremes_ex_app
-    - file: notebook/theoremes_td
-      sections:
-      - file: notebook/tir_balistique
+      - file: notebook/actions_meth
+      - file: notebook/theoremes_meth
+      - file: notebook/theoremes_ex_app
+      - file: notebook/theoremes_td
   - file: notebook/energetique
     sections:
-    - file: notebook/energetique_gene
+    - file: notebook/energetique_contxt
       sections:
-      - file: notebook/energetique_rappel
-      - file: notebook/energetique_travail
-      - file: notebook/energetique_ep
-      - file: notebook/energetique_theoremes
+      - file: notebook/energetique_gene
+        sections:
+        - file: notebook/energetique_travail
+        - file: notebook/energetique_ep
+        - file: notebook/energetique_theoremes
+      - file: notebook/energetique_conservatifs
+        sections:
+        - file: notebook/energetique_conserv_1d
+    - file: notebook/energetique_ex
+      sections:
       - file: notebook/energetique_exemples
       - file: notebook/energetique_ex_app
       - file: notebook/energetique_td
-    - file: notebook/energetique_conservatifs
-      sections:
-      - file: notebook/energetique_conserv_def
-      - file: notebook/energetique_conserv_1d
-      - file: notebook/energetique_conserv_td
   - file: notebook/applications
     sections:
     - file: notebook/oscillateurs
@@ -68,18 +65,40 @@ chapters:
       - file: notebook/oscillateurs_amorti
       - file: notebook/oscillateurs_forces
       - file: notebook/oscillateurs_td
-    - file: notebook/rotation
     - file: notebook/pendules
   - file: notebook/centrales
     sections:
-    - file: notebook/centrales_gene
-    - file: notebook/centrales_newtoniens
+    - file: notebook/centrales_contxt
       sections:
-      - file: notebook/centrales_newt_gene
+      - file: notebook/centrales_gene
+      - file: notebook/centrales_newtoniens
+        sections:
+        - file: notebook/centrales_newt_mvt
+        - file: notebook/centrales_newt_kepler
+    - file: notebook/centrales_ex
+      sections:
+      - file: notebook/centrales_methodes
       - file: notebook/centrales_newt_odg
-      - file: notebook/centrales_newt_mvt
-      - file: notebook/centrales_newt_kepler
       - file: notebook/centrales_newt_satellites
+      - file: notebook/centrales_app
       - file: notebook/centrales_newt_td
-
+  - file: notebook/systeme_pts
+    sections:
+    - file: notebook/systeme_contxt
+      sections:
+      - file: notebook/systeme_cinema
+        sections:
+        - file: notebook/systeme_description
+        - file: notebook/systeme_cinetique
+        - file: notebook/systeme_mouvement
+      - file: notebook/actions_globales
+        sections:
+        - file: notebook/actions_g_typo
+        - file: notebook/actions_theoremes
+    - file: notebook/systeme_ex
+      sections:
+      - file: notebook/systeme_methode
+      - file: notebook/rotation
+      - file: notebook/systeme_app
+      - file: notebook/systeme_td
 
