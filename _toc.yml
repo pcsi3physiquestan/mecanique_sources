@@ -39,6 +39,7 @@ chapters:
       - file: notebook/theoremes_meth
       - file: notebook/theoremes_ex_app
       - file: notebook/theoremes_td
+      - file: notebook/theoremes_num
   - file: notebook/energetique
     sections:
     - file: notebook/energetique_contxt
