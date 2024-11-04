@@ -1,5 +1,7 @@
 format: jb-book
 root: mecanique
+options:
+  numbered: True
 
 chapters:
   - file: notebook/cinematique
@@ -7,19 +9,11 @@ chapters:
     - file: notebook/cinema_contxt
       sections:
       - file: notebook/cinema_point
-        sections:
-        - file: notebook/cinema_referentiel
-        - file: notebook/cinema_trajectoire
-        - file: notebook/cinema_vitesse
-        - file: notebook/cinema_acc
-        - file: notebook/cinema_circulaire
       - file: notebook/cinetique_point
-        sections:
-        - file: notebook/cinetique_inertie
-        - file: notebook/cinetique_p
     - file: notebook/cinema_ex
       sections:
       - file: notebook/cinema_methode
+      - file: notebook/cinema_activite
       - file: notebook/cinema_ex_app
       - file: notebook/cinema_td
   - file: notebook/dynamique
